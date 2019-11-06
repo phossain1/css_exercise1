@@ -8,7 +8,6 @@ nav {
   background color: yellow;
   height: 100px;
   margin-top: -10px;
-  position: fixed;
   width: 100%;
 }
 
@@ -37,7 +36,6 @@ h3 {
 
 /* For elements */
 .element {
-  background-color: green;
   height: 100px;
   margin: 10px 0;
   width: 100%;
